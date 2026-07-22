@@ -1,0 +1,6 @@
+# 压缩包（与文件夹内容重复）
+*.zip
+
+# Simulink 临时文件
+slprj/
+*.slxc
